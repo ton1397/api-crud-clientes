@@ -1,6 +1,3 @@
-Aqui está o arquivo `README.md` que orienta como configurar e rodar a API Express conforme o contexto fornecido:
-
-```markdown
 # Guia de Configuração e Execução da API Express
 
 ## Passos para Configuração
@@ -12,7 +9,7 @@ Aqui está o arquivo `README.md` que orienta como configurar e rodar a API Expre
      ```
    - Navegue até o diretório do projeto:
      ```bash
-     cd seu-projeto
+     cd api-crud-clientes
      ```
 
 2. **Instale as Dependências**
@@ -73,6 +70,3 @@ Aqui está o arquivo `README.md` que orienta como configurar e rodar a API Expre
 - Se você encontrar algum problema, verifique o arquivo `.env` para garantir que todas as variáveis estão corretamente configuradas.
 
 Pronto! Agora você deve estar apto a rodar e desenvolver localmente com a sua API Express.
-```
-
-Este arquivo `README.md` fornece instruções claras sobre como configurar e rodar a aplicação Express localmente, incluindo a configuração do Firebase e do banco de dados MySQL.
