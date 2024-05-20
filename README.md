@@ -9,7 +9,7 @@
      ```
    - Navegue até o diretório do projeto:
      ```bash
-     cd seu-projeto
+     cd api-crud-clientes
      ```
 
 2. **Instale as Dependências**
